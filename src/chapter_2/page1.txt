@@ -1,3 +1,5 @@
     As a user,
     I should be able to see the detailed information of a specific vehicle
     on the General Information Page.
+    
+    editor: Add more about this story
