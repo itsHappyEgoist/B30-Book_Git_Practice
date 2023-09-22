@@ -1,4 +1,0 @@
-Verify drivers should not see "Edit", "Delete" or "Add Event"
-buttons on the "General Information” page
-
-editor: Java is cool
